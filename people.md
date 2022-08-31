@@ -25,7 +25,7 @@ Office: 107 Xiuyun Building <br>
 Email: <a href="mailto: @lzu.edu.cn">@lzu.edu.cn</a><br>
 <br clear="left"/></p> 
 
-<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+<p><img align="left" src="/files/Bi_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Shuilian Bi</b><br>
 Master's student<br>
@@ -33,7 +33,7 @@ Office: 107 Xiuyun Building <br>
 Email: <a href="mailto: @lzu.edu.cn">@lzu.edu.cn</a><br>
 <br clear="left"/></p> 
 
-<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+<p><img align="left" src="/files/Wang_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Yu Wang</b><br>
 Master's student<br>

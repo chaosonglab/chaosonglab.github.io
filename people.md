@@ -17,7 +17,7 @@ Email: <a href="mailto: chaosong@lzu.edu.cn">chaosong@lzu.edu.cn</a><br>
 
 ### **Graduate Students**
 
-<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+<p><img align="left" src="/files/Cui_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Bing Cui</b><br>
 Ph.D. student<br>

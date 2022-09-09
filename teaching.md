@@ -11,4 +11,16 @@ This course aims to demystify the scientific publishing process and covers the f
 **Lecture Notes**\
 [Syllabus](/files/course_materials/Syllabus.pdf)\
 [Lecture 1: An overview of scientific writing and publishing](/files/course_materials/Lecture1_overview.pdf)\
-Lecture 2: Authorship and research integrity
+Lecture 2: Authorship and research integrity\
+Lecture 3: Writing the introduction section of a paper\
+Lecture 4: Writing the methods section of a paper\
+Lecture 5: Writing the results section of a paper\
+Lecture 6: Writing the discussions section of a paper\
+Lecture 7: Choosing title and writing the abstract\
+Lecture 8: Structure, paragraph, sentence, and flow\
+Lecture 9: Words, style and energizing writing\
+Lecture 10: Designing figures and tables\
+Lecture 11: Bibliography management\
+Lecture 12: Reproducible research\
+Lecture 13: Peer review and responses to comments\
+Lecture 14: Effective scientific presentation

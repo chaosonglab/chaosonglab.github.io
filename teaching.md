@@ -11,7 +11,7 @@ This course aims to demystify the scientific publishing process and covers the f
 **Lecture Notes**\
 [Syllabus](/files/course_materials/Syllabus.pdf)\
 [Lecture 1: An overview of scientific writing and publishing](/files/course_materials/Lecture1_overview.pdf)\
-Lecture 2: Authorship and research integrity\
+[Lecture 2: Authorship and research integrity](/files/course_materials/Lecture2_authorship.pdf)\
 Lecture 3: Writing the introduction section of a paper\
 Lecture 4: Writing the methods section of a paper\
 Lecture 5: Writing the results section of a paper\

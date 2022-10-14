@@ -16,7 +16,7 @@ This course aims to demystify the scientific publishing process and covers the f
 [Lecture 4: Writing the methods section of a paper](/files/course_materials/Lecture4_methods.pdf)\
 [Assignment 1: Paraphrase](/files/course_materials/Assignment1_paraphrase.pdf)\
 [Lecture 5: Writing the results section of a paper](/files/course_materials/Lecture5_results.pdf)\
-Lecture 6: Writing the discussions section of a paper\
+[Lecture 6: Writing the discussions section of a paper](/files/course_materials/Lecture6_discussion.pdf)\
 Lecture 7: Choosing title and writing the abstract\
 Lecture 8: Structure, paragraph, sentence, and flow\
 Lecture 9: Words, style and energizing writing\

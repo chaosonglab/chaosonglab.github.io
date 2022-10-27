@@ -19,7 +19,7 @@ This course aims to demystify the scientific publishing process and covers the f
 [Lecture 6: Writing the discussions section of a paper](/files/course_materials/Lecture6_discussion.pdf)\
 [Lecture 7: Choosing title and writing the abstract](/files/course_materials/Lecture7_abstract.pdf)\
 [Lecture 8: Structure, paragraph, sentence, and flow](/files/course_materials/Lecture8_structure.pdf)\
-Lecture 9: Words, style and energizing writing\
+Lecture 9: Words, style, and energizing writing\
 Lecture 10: Designing figures and tables\
 Lecture 11: Bibliography management\
 Lecture 12: Reproducible research\

@@ -25,4 +25,4 @@ This course aims to demystify the scientific publishing process and covers the f
 [Lecture 12: Reproducible research](/files/course_materials/Lecture12_reproducibility.pdf)\
 [Assignment 2: Flow](/files/course_materials/Assignment2_flow.pdf)\
 [Lecture 13: Peer review and responses to comments](/files/course_materials/Lecture13_review.pdf)\
-Lecture 14: Effective scientific presentation
+[Lecture 14: Effective scientific presentation](/files/course_materials/Lecture14_presentation.pdf)

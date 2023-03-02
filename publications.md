@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Ma, X., S. Jiang, Z. Zhang, H. Wang, **C. Song**, J.-S. He. (2023) Long-term collar deployment leads to bias in soil respiration measurements. Methods in Ecology and Evolution, 14(3): 981--990.
+
 Wollheim, W.M., T.K. Harms, A.L. Robinson, L.E. Koenig, A.M. Helton, **C. Song**, W.B. Bowden, and J.C. Finlay (2022) Superlinear scaling of riverine biogeochemical function with watershed size. Nature Communications, 13: 1230. [[Link]](https://www.nature.com/articles/s41467-022-28630-z)
 
 **Song, C.**, S.D. Peacor, C.W. Osenberg, and J.R. Bence (2022). An assessment of statistical methods for non-independent data in ecological meta-analyses: Reply. Ecology, 103(1): e03578. [[Link]](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3578)

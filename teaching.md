@@ -21,7 +21,7 @@ Lecture 11: Tables, figures, and effective presentation \
 Lecture 12: Peer review and responses to comments \
 Lecture 13: Thesis and dissertation writing \
 Lecture 14: Strategies for selecting research topics \
-Lecture 15: Writing research proposals \
+Lecture 15: Seminar on selected topic of interest \
 Lecture 16: Seminar on selected topic of interest
 
 ### **Probability and Advanced Biostatistics (416133002)**

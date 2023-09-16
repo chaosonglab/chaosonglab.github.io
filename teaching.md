@@ -8,7 +8,7 @@ permalink: /teaching/
 
 [Syllabus](/files/course_materials/sci_writing/Syllabus.pdf)\
 [Lecture 1: An overview of scientific writing](/files/course_materials/sci_writing/Lecture1_overview.pdf)\
-Lecture 2: Authorship and research integrity \
+[Lecture 2: Authorship and research integrity](/files/course_materials/sci_writing/Lecture2_authorship.pdf) \
 Lecture 3: Writing the introduction section of a paper \
 Lecture 4: Writing the methods section of a paper \
 Lecture 5: Writing the results section of a paper \

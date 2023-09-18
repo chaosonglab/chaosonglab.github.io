@@ -27,6 +27,6 @@ Lecture 16: Seminar on selected topic of interest
 ### **Probability and Advanced Biostatistics (416133002)**
 
 [Lecture 1: Introduction to probability](files/course_materials/statistics/Lecture1_probability.pdf) \
-[Lecture 2: Discrete random variables](files/course_materials/statistics/Lecture2_discrete.pdf) \
+[Lecture 2: Discrete random variables](files/course_materials/statistics/Lecture2_discrete.pdf)
 
 

@@ -28,6 +28,6 @@ Lecture 16: Seminar on selected topic of interest
 
 [Lecture 1: Introduction to probability](files/course_materials/statistics/Lecture1_probability.pdf) \
 [Lecture 2: Discrete random variables](files/course_materials/statistics/Lecture2_discrete.pdf) \
-[Lecture 3: Continuous random variables](files/course_materials/statistics/Lecture2_continuous.pdf)
+[Lecture 3: Continuous random variables](files/course_materials/statistics/Lecture3_continuous.pdf)
 
 

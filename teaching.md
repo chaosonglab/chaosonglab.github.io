@@ -11,7 +11,7 @@ permalink: /teaching/
 [Lecture 2: Authorship and research integrity](/files/course_materials/sci_writing/Lecture2_authorship.pdf) \
 [Lecture 3: Writing the introduction section of a paper](/files/course_materials/sci_writing/Lecture3_introduction.pdf) \
 [Lecture 4: Writing the methods section of a paper](/files/course_materials/sci_writing/Lecture4_methods.pdf) \
-Lecture 5: Writing the results section of a paper \
+[Lecture 5: Writing the results section of a paper](/files/course_materials/sci_writing/Lecture5_results.pdf) \
 Lecture 6: Writing the discussions section of a paper \
 Lecture 7: Choosing the title and writing the abstract \
 Lecture 8: Structure, paragraph, sentence, and flow \

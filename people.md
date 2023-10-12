@@ -10,7 +10,7 @@ permalink: /people/
 
 <b>Chao Song</b><br>
 Professor, College of Ecology<br>
-Office: 212B Xiuyun Building <br>
+Office: 220B Xiuyun Building <br>
 Email: <a href="mailto: chaosong@lzu.edu.cn">chaosong@lzu.edu.cn</a><br>
 <a href="/files/CV_Song.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=farbSBEAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-8225-4490">ORCiD</a>
 <br clear="left"/></p>

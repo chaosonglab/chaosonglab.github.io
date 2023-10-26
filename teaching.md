@@ -13,7 +13,7 @@ permalink: /teaching/
 [Lecture 4: Writing the methods section of a paper](/files/course_materials/sci_writing/Lecture4_methods.pdf) \
 [Lecture 5: Writing the results section of a paper](/files/course_materials/sci_writing/Lecture5_results.pdf) \
 [Lecture 6: Writing the discussions section of a paper](/files/course_materials/sci_writing/Lecture6_discussions.pdf) \
-Lecture 7: Choosing the title and writing the abstract \
+[Lecture 7: Choosing the title and writing the abstract](/files/course_materials/sci_writing/Lecture7_abstract.pdf) \
 Lecture 8: Structure, paragraph, sentence, and flow \
 Lecture 9: Words, style and energizing writing \
 Lecture 10: Citation and bibliography management \

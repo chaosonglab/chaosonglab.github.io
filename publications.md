@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Zhang, C., **C. Song**, D. Wang, W. Qin, B. Zhu, F. Li, Y. Wang, and W. Ma. (2023) Precipitation and land use alter soil respiration in an Inner Mongolian grassland. Plant and Soil, 491: 101--114. [[Link]](https://link.springer.com/article/10.1007/s11104-022-05638-4)
+
 Pappalardo, P., **C. Song**, B. A. Hungate, and C. W. Osenberg. (2023) A meta-evaluation of the quality of reporting and execution in ecological meta-analyses. PLOS ONE, 18(10): e0292606. [[Link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292606)
 
 Ma, X., S. Jiang, Z. Zhang, H. Wang, **C. Song**, J.-S. He. (2023) Long-term collar deployment leads to bias in soil respiration measurements. Methods in Ecology and Evolution, 14(3): 981--990. [[Link]](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14056)

@@ -16,7 +16,7 @@ permalink: /teaching/
 [Lecture 7: Choosing the title and writing the abstract](/files/course_materials/sci_writing/Lecture7_abstract.pdf) \
 [Assignment 1: writing the results](/files/course_materials/sci_writing/Assignment_1.pdf) \
 [Lecture 8: Structure, paragraph, sentence, and flow](/files/course_materials/sci_writing/Lecture8_sentence.pdf) \
-Lecture 9: Words, style and energizing writing \
+[Lecture 9: Words, style and energizing writing](/files/course_materials/sci_writing/Lecture9_words.pdf) \
 Lecture 10: Citation and bibliography management \
 Lecture 11: Tables, figures, and effective presentation \
 Lecture 12: Peer review and responses to comments \

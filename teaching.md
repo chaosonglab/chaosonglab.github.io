@@ -19,6 +19,7 @@ permalink: /teaching/
 [Lecture 8: Structure, paragraph, sentence, and flow](/files/course_materials/sci_writing/Lecture8_sentence.pdf) \
 [Lecture 9: Words, style and energizing writing](/files/course_materials/sci_writing/Lecture9_words.pdf) \
 [Lecture 10: Citation and bibliography management](/files/course_materials/sci_writing/Lecture10_bibliography.pdf) \
+[Assignment 2: coherent writing](/files/course_materials/sci_writing/Assignment_2.pdf) \
 [Lecture 11: Tables, figures, and effective presentation](/files/course_materials/sci_writing/Lecture11_figures.pdf) \
 [Lecture 12: Peer review and responses to comments](/files/course_materials/sci_writing/Lecture12_review.pdf)
 

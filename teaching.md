@@ -20,11 +20,7 @@ permalink: /teaching/
 [Lecture 9: Words, style and energizing writing](/files/course_materials/sci_writing/Lecture9_words.pdf) \
 [Lecture 10: Citation and bibliography management](/files/course_materials/sci_writing/Lecture10_bibliography.pdf) \
 [Lecture 11: Tables, figures, and effective presentation](/files/course_materials/sci_writing/Lecture11_figures.pdf) \
-[Lecture 12: Peer review and responses to comments](/files/course_materials/sci_writing/Lecture12_review.pdf) \
-Lecture 13: Thesis and dissertation writing \
-Lecture 14: Strategies for selecting research topics \
-Lecture 15: Seminar on selected topic of interest \
-Lecture 16: Seminar on selected topic of interest
+[Lecture 12: Peer review and responses to comments](/files/course_materials/sci_writing/Lecture12_review.pdf)
 
 ### **Probability and Advanced Biostatistics (416133002)**
 

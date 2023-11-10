@@ -18,9 +18,9 @@ permalink: /teaching/
 [Assignment 1: comment](/files/course_materials/sci_writing/Assignment1_comment.pdf) \
 [Lecture 8: Structure, paragraph, sentence, and flow](/files/course_materials/sci_writing/Lecture8_sentence.pdf) \
 [Lecture 9: Words, style and energizing writing](/files/course_materials/sci_writing/Lecture9_words.pdf) \
-Lecture 10: Citation and bibliography management \
-Lecture 11: Tables, figures, and effective presentation \
-Lecture 12: Peer review and responses to comments \
+[Lecture 10: Citation and bibliography management](/files/course_materials/sci_writing/Lecture10_bibliography.pdf) \
+[Lecture 11: Tables, figures, and effective presentation](/files/course_materials/sci_writing/Lecture11_figures.pdf) \
+[Lecture 12: Peer review and responses to comments](/files/course_materials/sci_writing/Lecture12_review.pdf) \
 Lecture 13: Thesis and dissertation writing \
 Lecture 14: Strategies for selecting research topics \
 Lecture 15: Seminar on selected topic of interest \

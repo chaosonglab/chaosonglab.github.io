@@ -3,7 +3,7 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-Shogren, A. J., J. P. Zarnetske, B. W. Abbott, A. L. Grose, A. F. Rec, J. Nipko, **C. Song**, J. A. O'Donell, and W. B. Bowden. (2024) Hydrology controls dissolved organic carbon and nitrogen export and post-storm recovery in two Arctic headwaters. Journal of Geophysical Research: Biogeosciences, 129(2): e2023JG007583.[[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JG007583)
+Shogren, A. J., J. P. Zarnetske, B. W. Abbott, A. L. Grose, A. F. Rec, J. Nipko, **C. Song**, J. A. O'Donnell, and W. B. Bowden. (2024) Hydrology controls dissolved organic carbon and nitrogen export and post-storm recovery in two Arctic headwaters. Journal of Geophysical Research: Biogeosciences, 129(2): e2023JG007583.[[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JG007583)
 
 Zhang, C., **C. Song**, D. Wang, W. Qin, B. Zhu, F. Li, Y. Wang, and W. Ma. (2023) Precipitation and land use alter soil respiration in an Inner Mongolian grassland. Plant and Soil, 491: 101--114. [[Link]](https://link.springer.com/article/10.1007/s11104-022-05638-4)
 

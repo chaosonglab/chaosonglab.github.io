@@ -28,4 +28,4 @@ permalink: /teaching/
 [Lecture 9 Words, Style, and Energing Writing](files/course_materials/sci_writing/lecture9_words.pdf) \
 [Lecture 10 Citation and Bibliography Management](files/course_materials/sci_writing/lecture10_bibliography.pdf) \
 [Lecture 11 Table, Figure, and Effective Presentation](files/course_materials/sci_writing/lecture11_figures.pdf) \
-[Lecture 12 Peer Review and Responses to Comments](files/course_materials/sci_writing/lecture12_review.pdf) \
+[Lecture 12 Peer Review and Responses to Comments](files/course_materials/sci_writing/lecture12_review.pdf)

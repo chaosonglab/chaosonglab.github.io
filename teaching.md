@@ -13,7 +13,10 @@ permalink: /teaching/
 [Lecture 4 Common Discrete Distributions](files/course_materials/statistics/lecture4_discrete.pdf) \
 [Lecture 5 Continuous Random Variables](files/course_materials/statistics/lecture5_continuous.pdf) \
 [Lecture 6 Common Continuous Distributions](files/course_materials/statistics/lecture6_continuous.pdf) \
-[Lecture 7 Multivariate Distributions](files/course_materials/statistics/lecture7_multivariate.pdf)
+[Lecture 7 Multivariate Distributions](files/course_materials/statistics/lecture7_multivariate.pdf) \
+Lecture 8 Multivariate Distribution \
+Lecture 9 Transformation of Random Variables \
+Lecture 10 Central Limit Theorem
 
 
 ### **Scientific Writing (416133001)**

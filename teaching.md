@@ -16,8 +16,7 @@ permalink: /teaching/
 [Lecture 7 Multivariate Distributions](files/course_materials/statistics/lecture7_multivariate.pdf) \
 [Lecture 8 Multivariate Distributions](files/course_materials/statistics/lecture8_multivariate.pdf) \
 [Lecture 9 Transformation of Random Variables](files/course_materials/statistics/lecture9_transformation.pdf) \
-Lecture 10 Central Limit Theorem \
-Lecture 11 Exploratory Data Analysis
+[Lecture 10 Central Limit Theorem](files/course_materials/statistics/lecture10_clt.pdf)
 
 
 ### **Scientific Writing (416133001)**

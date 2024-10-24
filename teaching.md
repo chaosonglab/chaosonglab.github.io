@@ -17,7 +17,8 @@ permalink: /teaching/
 [Lecture 8 Multivariate Distributions](files/course_materials/statistics/lecture8_multivariate.pdf) \
 [Lecture 9 Transformation of Random Variables](files/course_materials/statistics/lecture9_transformation.pdf) \
 [Lecture 10 Central Limit Theorem](files/course_materials/statistics/lecture10_clt.pdf) \
-[Lecture 11 Exploratory Data Analysis](files/course_materials/statistics/lecture11_descriptive.pdf)
+[Lecture 11 Exploratory Data Analysis](files/course_materials/statistics/lecture11_descriptive.pdf) \
+[Lecture 12 Methods of Point Estimatiion](files/course_materials/statistics/lecture12_estimation.pdf)
 
 ### **Scientific Writing (416133001)**
 [Course syllabus](files/course_materials/sci_writing/syllabus.pdf) \

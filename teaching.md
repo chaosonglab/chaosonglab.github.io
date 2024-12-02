@@ -18,7 +18,16 @@ permalink: /teaching/
 [Lecture 9 Transformation of Random Variables](files/course_materials/statistics/lecture9_transformation.pdf) \
 [Lecture 10 Central Limit Theorem](files/course_materials/statistics/lecture10_clt.pdf) \
 [Lecture 11 Exploratory Data Analysis](files/course_materials/statistics/lecture11_descriptive.pdf) \
-[Lecture 12 Methods of Point Estimatiion](files/course_materials/statistics/lecture12_estimation.pdf)
+[Lecture 12 Methods of Point Estimatiion](files/course_materials/statistics/lecture12_estimation.pdf) \
+Lecture 13 Methods of Evaluating Estimators
+Lecture 14 Interval Estimation
+[Lecture 15 Interval Estimation](files/course_materials/statistics/lecture15_interval.pdf) \
+[Lecture 16 The Concept of Hypothesis Testing](files/course_materials/statistics/lecture16_hypothesis.pdf) \
+[Lecture 17 Hypothesis Testing of Means and Variances](files/course_materials/statistics/lecture17_testmean.pdf)
+[Lecture 18 Chi-square Goodness of Fit Tests](files/course_materials/statistics/lecture18_chisquare.pdf)
+[Lecture 19 Likelihood Ratio Tests](files/course_materials/statistics/lecture19_LRT.pdf)
+
+
 
 ### **Scientific Writing (416133001)**
 [Course syllabus](files/course_materials/sci_writing/syllabus.pdf) \

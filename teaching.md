@@ -20,7 +20,7 @@ permalink: /teaching/
 [Lecture 11 Exploratory Data Analysis](files/course_materials/statistics/lecture11_descriptive.pdf) \
 [Lecture 12 Methods of Point Estimatiion](files/course_materials/statistics/lecture12_estimation.pdf) \
 Lecture 13 Methods of Evaluating Estimators \
-Lecture 14 Interval Estimation \
+[Lecture 14 Interval Estimation](files/course_materials/statistics/lecture14_interval.pdf) \
 [Lecture 15 Interval Estimation](files/course_materials/statistics/lecture15_interval.pdf) \
 [Lecture 16 The Concept of Hypothesis Testing](files/course_materials/statistics/lecture16_hypothesis.pdf) \
 [Lecture 17 Hypothesis Testing of Means and Variances](files/course_materials/statistics/lecture17_testmean.pdf) \

@@ -19,7 +19,7 @@ permalink: /teaching/
 [Lecture 10 Central Limit Theorem](files/course_materials/statistics/lecture10_clt.pdf) \
 [Lecture 11 Exploratory Data Analysis](files/course_materials/statistics/lecture11_descriptive.pdf) \
 [Lecture 12 Methods of Point Estimatiion](files/course_materials/statistics/lecture12_estimation.pdf) \
-Lecture 13 Methods of Evaluating Estimators \
+[Lecture 13 Methods of Evaluating Estimators](files/course_materials/statistics/lecture13_estimation.pdf) \
 [Lecture 14 Interval Estimation](files/course_materials/statistics/lecture14_interval.pdf) \
 [Lecture 15 Interval Estimation](files/course_materials/statistics/lecture15_interval.pdf) \
 [Lecture 16 The Concept of Hypothesis Testing](files/course_materials/statistics/lecture16_hypothesis.pdf) \

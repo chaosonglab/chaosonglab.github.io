@@ -27,6 +27,7 @@ permalink: /teaching/
 [Lecture 18 Chi-square Goodness of Fit Tests](files/course_materials/statistics/lecture18_chisquare.pdf) \
 [Lecture 19 Likelihood Ratio Tests](files/course_materials/statistics/lecture19_LRT.pdf) \
 [Lecture 20 Linear Regression and the Method of Least Squares](files/course_materials/statistics/lecture20_regression.pdf)
+[Lecture 21 The Analysis of Variance](files/course_materials/statistics/lecture21_ANOVA.pdf)
 
 
 

@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### **Statistics Workshop **
+### **Statistics Workshop**
 [Lecture 1 Theory of Linear Model](files/course_materials/lecture1_linearmodel.pdf) [R code](files/course_materials/lecture1_linearmodel_code.r)
 
 

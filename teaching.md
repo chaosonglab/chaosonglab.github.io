@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ### **Statistics Workshop**
-[Lecture 1 Theory of Linear Model](files/course_materials/lecture1_linearmodel.pdf) [R code](files/course_materials/lecture1_linearmodel_code.r)
+[Lecture 1 Theory of Linear Model](files/course_materials/states_workshop/lecture1_lm_theory.pdf) [R code](files/course_materials/lecture1_lm_theory_code.r)
 
 
 ### **Probability and Statistics (105413001)**

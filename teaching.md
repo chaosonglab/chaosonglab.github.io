@@ -6,7 +6,8 @@ permalink: /teaching/
 
 ### **Statistics Workshop**
 [Lecture 1 Theory of Linear Model](files/course_materials/stats_workshop/lecture1_lm_theory.pdf) [R code](files/course_materials/stats_workshop/lecture1_lm_theory_code.r) \
-[Lecture 2 Application of Linear Model](files/course_materials/stats_workshop/lecture2_lm_application.pdf) [R code](files/course_materials/stats_workshop/lecture2_lm_application_code.r)
+[Lecture 2 Application of Linear Model](files/course_materials/stats_workshop/lecture2_lm_application.pdf) [R code](files/course_materials/stats_workshop/lecture2_lm_application_code.r) \
+[Lecture 2 Generalized Linear Model](files/course_materials/stats_workshop/lecture3_glm.pdf)
 
 
 ### **Probability and Statistics (105413001)**

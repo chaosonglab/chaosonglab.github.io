@@ -7,7 +7,7 @@ permalink: /teaching/
 ### **Statistics Workshop**
 [Lecture 1 Theory of Linear Model](files/course_materials/stats_workshop/lecture1_lm_theory.pdf) [R code](files/course_materials/stats_workshop/lecture1_lm_theory_code.r) \
 [Lecture 2 Application of Linear Model](files/course_materials/stats_workshop/lecture2_lm_application.pdf) [R code](files/course_materials/stats_workshop/lecture2_lm_application_code.r) \
-[Lecture 3 Generalized Linear Model](files/course_materials/stats_workshop/lecture3_glm.pdf) [R code](files/course_materials/stats_workshop/lecture3_glm_code.R)
+[Lecture 3 Generalized Linear Model](files/course_materials/stats_workshop/lecture3_glm.pdf) [R code](files/course_materials/stats_workshop/lecture3_glm_code.R) \
 [Lecture 4 Linear Mixed-effect Model](files/course_materials/stats_workshop/lecture4_lmm.pdf) [R code](files/course_materials/stats_workshop/lecture4_lmm_code.R)
 
 ### **Probability and Statistics (105413001)**

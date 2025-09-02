@@ -56,7 +56,7 @@ Office: 107 Xiuyun Building <br>
 <p><img align="left" src="/files/Liu_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Shun Liu</b><br>
-Undergraduate student<br>
+Ph.D. student<br>
 Office: 107 Xiuyun Building <br>
 <br clear="left"/></p> 
 

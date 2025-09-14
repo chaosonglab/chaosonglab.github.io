@@ -9,8 +9,8 @@ permalink: /teaching/
 [Course syllabus](files/course_materials/statistics/syllabus.pdf) \
 [Lecture 1 The Concept of Probability](files/course_materials/statistics/lecture1_probability.pdf) \
 [Lecture 2 Conditional Probability and Bayes' Theorem](files/course_materials/statistics/lecture2_probability.pdf) \
-[Lecture 3 Discrete random variables](files/course_materials/statistics/lecture3_discrete.pdf) \
-[Lecture 4 Common discrete distributions](files/course_materials/statistics/lecture4_discrete.pdf)
+[Lecture 3 Discrete Random Variables](files/course_materials/statistics/lecture3_discrete.pdf) \
+[Lecture 4 Common Discrete Distributions](files/course_materials/statistics/lecture4_discrete.pdf)
 
 
 

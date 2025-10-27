@@ -11,7 +11,13 @@ permalink: /teaching/
 [Lecture 2 Conditional Probability and Bayes' Theorem](files/course_materials/statistics/lecture2_probability.pdf) \
 [Lecture 3 Discrete Random Variables](files/course_materials/statistics/lecture3_discrete.pdf) \
 [Lecture 4 Common Discrete Distributions](files/course_materials/statistics/lecture4_discrete.pdf) \
-[Lecture 5 Continuous Random Variables](files/course_materials/statistics/lecture5_continuous.pdf) 
+[Lecture 5 Continuous Random Variables](files/course_materials/statistics/lecture5_continuous.pdf) \
+[Lecture 6 Common Continuous Distributions](files/course_materials/statistics/lecture6_continuous.pdf) \
+[Lecture 7 Multivariate Distributions](files/course_materials/statistics/lecture7_multivariate.pdf) \
+[Lecture 8 Multivariate Distributions](files/course_materials/statistics/lecture8_multivariate.pdf) \
+[Lecture 9 Transformation of Random Variables](files/course_materials/statistics/lecture9_transformation.pdf) \
+[Lecture 10 Central Limit Theorem](files/course_materials/statistics/lecture10_clt.pdf) \
+[Lecture 11 Exploratory Data Analysis](files/course_materials/statistics/lecture11_descriptive.pdf)
 
 
 

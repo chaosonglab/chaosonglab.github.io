@@ -8,16 +8,16 @@ permalink: /teaching/
 ### **Probability and Statistics (105413001)**
 [Course syllabus](files/course_materials/statistics/syllabus.pdf) \
 [Lecture 1 The Concept of Probability](files/course_materials/statistics/lecture1_probability.pdf) \
-[Lecture 2 Conditional Probability and Bayes' Theorem](files/course_materials/statistics/lecture2_probability.pdf) \
-[Lecture 3 Discrete Random Variables](files/course_materials/statistics/lecture3_discrete.pdf) \
-[Lecture 4 Common Discrete Distributions](files/course_materials/statistics/lecture4_discrete.pdf) \
-[Lecture 5 Continuous Random Variables](files/course_materials/statistics/lecture5_continuous.pdf) \
-[Lecture 6 Common Continuous Distributions](files/course_materials/statistics/lecture6_continuous.pdf) \
-[Lecture 7 Multivariate Distributions](files/course_materials/statistics/lecture7_multivariate.pdf) \
-[Lecture 8 Multivariate Distributions](files/course_materials/statistics/lecture8_multivariate.pdf) \
-[Lecture 9 Transformation of Random Variables](files/course_materials/statistics/lecture9_transformation.pdf) \
-[Lecture 10 Central Limit Theorem](files/course_materials/statistics/lecture10_clt.pdf) \
-[Lecture 11 Exploratory Data Analysis](files/course_materials/statistics/lecture11_descriptive.pdf)
+[Lecture 2 Discrete Random Variables](files/course_materials/statistics/lecture2_discrete.pdf) \
+[Lecture 3 Continuous Random Variables](files/course_materials/statistics/lecture3_continuous.pdf) \
+[Lecture 4 Multivariate Distributions](files/course_materials/statistics/lecture4_multivariate.pdf) \
+[Lecture 5 Transformation of Random Variables](files/course_materials/statistics/lecture5_transformation.pdf) \
+[Lecture 6 Central Limit Theorem](files/course_materials/statistics/lecture6_clt.pdf) \
+[Lecture 7 Exploratory Data Analysis](files/course_materials/statistics/lecture7_descriptive.pdf) \
+[Lecture 8 Point Estimation](files/course_materials/statistics/lecture8_estimation.pdf) \
+[Lecture 9 Interval Estimation](files/course_materials/statistics/lecture9_interval.pdf) \
+[Lecture 10 The Concept of Hypothesis Testing](files/course_materials/statistics/lecture10_hypothesis.pdf) \
+[Lecture 11 Hypothesis Tests for Means and Variances](files/course_materials/statistics/lecture11_testmean.pdf)
 
 
 

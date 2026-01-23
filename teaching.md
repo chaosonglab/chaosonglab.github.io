@@ -17,7 +17,11 @@ permalink: /teaching/
 [Lecture 8 Point Estimation](files/course_materials/statistics/lecture8_estimation.pdf) \
 [Lecture 9 Interval Estimation](files/course_materials/statistics/lecture9_interval.pdf) \
 [Lecture 10 The Concept of Hypothesis Testing](files/course_materials/statistics/lecture10_hypothesis.pdf) \
-[Lecture 11 Hypothesis Tests for Means and Variances](files/course_materials/statistics/lecture11_testmean.pdf)
+[Lecture 11 Hypothesis Tests for Means and Variances](files/course_materials/statistics/lecture11_testmean.pdf) \
+[Lecture 12 Chi-square Goodness of Fit Test](files/course_materials/statistics/lecture12_chisquare.pdf) \
+[Lecture 13 Likelihood Ratio Test](files/course_materials/statistics/lecture13_LRT.pdf) \
+[Lecture 14 Theory of Linear Regression](files/course_materials/statistics/lecture14_regression.pdf) \
+[Lecture 15 The Analysis of Variance](files/course_materials/statistics/lecture15_ANOVA.pdf)
 
 
 

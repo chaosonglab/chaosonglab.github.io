@@ -89,5 +89,12 @@ Master's student<br>
 Office: 107 Xiuyun Building <br>
 <br clear="left"/></p> 
 
+<p><img align="left" src="/files/Ma_HL_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+
+<b>Hailan Ma</b><br>
+Master's student<br>
+Office: 107 Xiuyun Building <br>
+<br clear="left"/></p> 
+
 
 
